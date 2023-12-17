@@ -26,3 +26,4 @@ React Animated Portfolio Website
 - HTML5
 - CSS3/SASS
 
+npm run build -> firebase deploy
