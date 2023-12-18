@@ -13,7 +13,7 @@ export const ProjectsData: ProjectsType[] = [
     description: `Fastest Landing page built with React, Next Js and Styled Components. modern monorepo architecture. Minimal design`,
     image: 'https://erfjs.com/images/protfolio/my_portfolio/img-1.png',
     GitHub: '',
-    hosted: 'https://erfjs.com',
+    hosted: '',
   },
   {
     title: 'Animated Portfolio',

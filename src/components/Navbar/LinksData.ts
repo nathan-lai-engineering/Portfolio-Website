@@ -13,6 +13,10 @@ export const LinksData: LinkType[] = [
     linkTo: '/skills',
   },
   {
+    title: 'Education',
+    linkTo: '/education',
+  },
+  {
     title: 'Experience',
     linkTo: '/experience',
   },

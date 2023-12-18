@@ -19,14 +19,4 @@ export const LinksData: LinksType[] = [
     icon: <ImLinkedin color='#000000dc' />,
     link: "https://www.linkedin.com/in/erfan-granmayeh",
   },
-  {
-    title: "Twitter",
-    icon: <FaTwitter color='#000000dc' />,
-    link: "https://twitter.com/erfan_grr",
-  },
-  {
-    title: "Instagram",
-    icon: <SiInstagram color='#000000dc' />,
-    link: "https://www.instagram.com/erfan_grr",
-  },
 ];

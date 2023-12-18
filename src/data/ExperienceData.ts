@@ -6,19 +6,10 @@ interface ExperienceDataType {
 
 export const ExperienceData: ExperienceDataType[] = [
   {
-    title: 'Frontend Developer | Freelancer.com',
+    title: 'Student Assistant | CSULB Research Foundation',
     date: ' May 2019 _ Jul 2022',
     details: [
-      'Developed web applications using React, Redux, Next.js', 'Building a landing page with high speed and high scores in speed test gtmetrix and lighthouse, etc', 'Creating a web application (Windows, Android and iOS)', 'Create website with modern monorepo architecture', 'Collaborated closely with other developers on projects that require multiple people to complete tasks',
-    ],
-  },
-  {
-    title: 'Frontend Developer | Upwork',
-    date: 'Sep 2019 - Jan 2022',
-    details: [
-      'Worked with a team of 5 developers to create an e-commerce website using React and NodeJS',
-      'Built a dashboard for monitoring server performance using NodeJS, React, Material-ui',
-      'Created reusable components that were easily maintainable, reducing the time spent on future development by 50%',
+      "A. Tavakoli, N. Lai, V. Balali, A. Heydarian. “How Are Drivers' Stress Levels And Emotions Associated With The Driving Context? A Naturalistic Study”", 'Assisted Dr. Vahid Balali in collaboration with the University of Virgina’s Link Lab in research', 'Created a Python program using MASK-RCNN and YOLOP to detect cars, their lanes, and distance', 'Created a Python program that allows for accurate detection of traffic signs using YOLOv5 and EasyOCR', 'Trained a computer vision model using YOLOv5 machine learning on the LISA and COCO datasets',
     ],
   },
 ];
