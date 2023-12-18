@@ -9,7 +9,7 @@ export const LinksData: LinkType[] = [
     linkTo: '/',
   },
   {
-    title: 'Skills',
+    title: 'Resume',
     linkTo: '/skills',
   },
   {
