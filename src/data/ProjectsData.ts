@@ -9,9 +9,57 @@ interface ProjectsType {
 
 export const ProjectsData: ProjectsType[] = [
   {
-    title: 'Portfolio | Private Project',
-    description: `Fastest Landing page built with React, Next Js and Styled Components. modern monorepo architecture. Minimal design`,
-    image: 'https://erfjs.com/images/protfolio/my_portfolio/img-1.png',
+    title: 'Personal Website | Personal',
+    description: ``,
+    image: '',
+    GitHub: '',
+    hosted: '',
+  },
+
+  {
+    title: 'Discord Bot | Personal',
+    description: ``,
+    image: '',
+    GitHub: '',
+    hosted: '',
+  },
+
+  {
+    title: 'FeastReview | School',
+    description: ``,
+    image: '',
+    GitHub: '',
+    hosted: '',
+  },
+
+  {
+    title: 'Cody the Crab | Hackathon',
+    description: ``,
+    image: '',
+    GitHub: '',
+    hosted: '',
+  },
+
+  {
+    title: 'RationBytes | Hackathon',
+    description: ``,
+    image: '',
+    GitHub: '',
+    hosted: '',
+  },
+
+  {
+    title: 'Objective Koala | Hackathon',
+    description: ``,
+    image: '',
+    GitHub: '',
+    hosted: '',
+  },
+
+  {
+    title: 'Kinematics Calculator | Personal',
+    description: ``,
+    image: '',
     GitHub: '',
     hosted: '',
   },

@@ -22,16 +22,7 @@ const Projects = () => {
           <h3 className={styles.projectsOpen}>{projectsOpen}</h3>
           <div className={styles.projects_content}>
             {ProjectsData.map((item, index) =>
-              index % 2 === 0 ? (
-                  <ProjectCard
-                    key={item.title}
-                    title={item.title}
-                    description={item.description}
-                    image={item.image}
-                    GitHub={item.GitHub}
-                    hosted={item.hosted}
-                  />
-              ) : (
+              (
                   <ProjectCard
                     key={item.title}
                     title={item.title}
