@@ -20,6 +20,7 @@
 
   .content {
     padding: 15px;
+    flex: auto;
 
     h2 {
       font-weight: 500;
@@ -35,7 +36,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
-      -webkit-line-clamp: 3;
+      -webkit-line-clamp: 10;
       -webkit-box-orient: vertical;
       line-height: 1.6rem;
     }
@@ -43,6 +44,9 @@
 
   .buttons {
     margin: 20px 0 10px 0;
+    justify-content: end;
+    justify-self: end;
+    justify-content: flex-end;
 
     .github,
     .hosted {
