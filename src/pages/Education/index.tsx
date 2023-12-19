@@ -28,6 +28,7 @@ const Education = () => {
               date={item.date}
               details={item.details}
               isLeft={index % 2 === 0 ? true : false}
+              icon="education"
             />
           ))}
           <h3 className={styles.eduClose}>{eduClose}</h3>
