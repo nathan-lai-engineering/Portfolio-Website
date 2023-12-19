@@ -22,7 +22,7 @@ const ProjectCard: FC<ProjectCardProps> = (props) => {
         <p>{props.description}</p>
         <div className={styles.buttons}>
           {props.GitHub && <LinkButton isGitHub={true} link={props.GitHub} />}
-          <LinkButton isGitHub={false} link={props.hosted} />
+          {props.hosted.length > 0 && <LinkButton isGitHub={false} link={props.hosted} />}
         </div>
       </div>
     </div>
