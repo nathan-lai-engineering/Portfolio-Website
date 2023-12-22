@@ -12,11 +12,11 @@ export const LinksData: LinksType[] = [
   {
     title: "GitHub",
     icon: <ImGithub color='#000000dc' />,
-    link: "https://github.com/erfjs",
+    link: "https://github.com/nathan-lai-engineering",
   },
   {
     title: "LinkedIn",
     icon: <ImLinkedin color='#000000dc' />,
-    link: "https://www.linkedin.com/in/erfan-granmayeh",
+    link: "https://www.linkedin.com/in/nathan-lai-cs/",
   },
 ];
