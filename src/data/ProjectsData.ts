@@ -11,7 +11,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'Personal Website | Personal',
     description: `Personal portfolio website using React.js hosted on Firebase Hosting.`,
-    image: '',
+    image: 'https://raw.githubusercontent.com/nathan-lai-engineering/Portfolio-Website/main/src/assets/projects/personal_website_example.png',
     GitHub: 'https://github.com/nathan-lai-engineering/Portfolio-Website',
     hosted: 'https://www.nathanlai.tech/',
   },
@@ -27,15 +27,15 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'FeastReview | School',
     description: `Senior programming team project around restaurant reviews heavily inspired by Yelp with improvements. Created using React Native Javascript framework, Yelp Fusion, & Firebase.`,
-    image: '../../assets/projects/feastreview_example.png',
+    image: 'https://raw.githubusercontent.com/nathan-lai-engineering/Portfolio-Website/main/src/assets/projects/feastreview_example.png',
     GitHub: 'https://github.com/dolan77/FeastReview',
-    hosted: '',
+    hosted: 'https://raw.githubusercontent.com/nathan-lai-engineering/Portfolio-Website/main/src/assets/projects/feastreview_example.png',
   },
 
   {
     title: 'Cody the Crab | BeachHacks 2021',
     description: `Discord bot created in Python using Discord.py focused on managing academic servers as a team submission. Stores data using Firestore database.`,
-    image: '',
+    image: 'https://raw.githubusercontent.com/nathan-lai-engineering/Portfolio-Website/main/src/assets/projects/cody_crab_example.png',
     GitHub: 'https://github.com/nathan-lai-engineering/Cody-the-Crab',
     hosted: '',
   },
@@ -51,7 +51,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'Objective Koala | HackSC 2020',
     description: `Website focused on JavaScript game created as a team submission. Winner of Xpring’s sustainability challenge. Created using Bootstrap, JavaScript, CSS, & HTML.`,
-    image: '',
+    image: 'https://raw.githubusercontent.com/nathan-lai-engineering/Portfolio-Website/main/src/assets/projects/objective_koala_example.png',
     GitHub: 'https://github.com/nathan-lai-engineering/byte-me-3',
     hosted: '',
   },
