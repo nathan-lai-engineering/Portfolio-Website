@@ -20,6 +20,7 @@ interface SkillsType {
 }
 
 export const SkillsData: SkillsType[] = [
+  /*
   {
     name: "JavaScript",
     icon: <IoLogoJavascript color='#000000dc' />,
@@ -99,5 +100,5 @@ export const SkillsData: SkillsType[] = [
     name: "Postman",
     icon: <SiPostman color='#000000dc' />,
     link: "https://www.postman.com/",
-  },
+  },*/
 ];
