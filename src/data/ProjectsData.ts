@@ -19,7 +19,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'Discord Bot | Personal',
     description: `Discord bot created using the Discord.js API with data hosted on Oracle Autonomous Database. Using TikWM & Riot Web API.`,
-    image: '',
+    image: '../assets/projects/discord_bot_example.png',
     GitHub: 'https://github.com/nathan-lai-engineering/discord-bot',
     hosted: '',
   },
@@ -27,7 +27,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'FeastReview | School',
     description: `Senior programming team project around restaurant reviews heavily inspired by Yelp with improvements. Created using React Native Javascript framework, Yelp Fusion, & Firebase.`,
-    image: '',
+    image: '../assets/projects/feastreview_example.png',
     GitHub: 'https://github.com/dolan77/FeastReview',
     hosted: '',
   },
