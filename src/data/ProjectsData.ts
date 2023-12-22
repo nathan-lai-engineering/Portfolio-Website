@@ -59,7 +59,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'Kinematics Calculator | Personal',
     description: `My first ever code project, created in Java using Swing for graphical interface. Calculates values using kinematics equations learned in mechanics in physics.`,
-    image: '',
+    image: 'https://raw.githubusercontent.com/nathan-lai-engineering/Portfolio-Website/main/src/assets/projects/kinematics_calculator_example.png',
     GitHub: 'https://github.com/nathan-lai-engineering/kinematics-calculator',
     hosted: '',
   },
