@@ -43,7 +43,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: 'RationBytes | LAHacks 2020',
     description: `iOS mobile application created in Javacript using React Native & Expo as a team submission. Keeps track of inventory & expiration dates intended for use during quarantine.`,
-    image: '',
+    image: 'https://raw.githubusercontent.com/nathan-lai-engineering/ration-bytes-mobile-app/master/inventory.png',
     GitHub: 'https://github.com/nathan-lai-engineering/ration-bytes-mobile-app',
     hosted: '',
   },
