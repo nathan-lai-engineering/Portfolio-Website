@@ -20,7 +20,7 @@ const Skills = () => {
         <div className={styles.wrapper}>
           <h3 className={styles.skillsopen}>{skillsOpen}</h3>
           <div className={styles.skills_content}>
-            <iframe src="./resume.pdf"/>
+            <iframe src="./resume.pdf" width="100%" height="750px"/>
 
           </div>
           <h3 className={styles.skillsclose}>{skillsClose}</h3>
