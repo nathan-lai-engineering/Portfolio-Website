@@ -25,6 +25,14 @@ export const LinksData: LinkType[] = [
     linkTo: '/projects',
   },
   {
+    title: 'Hobbies',
+    linkTo: '/',
+  },
+  {
+    title: 'API',
+    linkTo: '/',
+  },
+  {
     title: 'Contact',
     linkTo: '/contact',
   },
