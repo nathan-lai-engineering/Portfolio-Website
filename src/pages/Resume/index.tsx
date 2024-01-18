@@ -1,13 +1,13 @@
 import { motion } from "framer-motion";
 
-import { SkillsData } from "../../data/SkillsData";
+import { ResumeData } from "../../data/ResumeData";
 import { pageVariants, pageTransition } from "../../utils/FramerAnimation";
 import styles from "./skills.module.scss";
 
 const skillsOpen = "<resume>";
 const skillsClose = "</resume>";
 
-const Skills = () => {
+const Resume = () => {
   return (
     <div className={styles.skills}>
       <motion.div
@@ -30,4 +30,4 @@ const Skills = () => {
   );
 };
 
-export default Skills;
+export default Resume;

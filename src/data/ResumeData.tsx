@@ -13,13 +13,13 @@ import {
 import { AiFillAndroid } from "react-icons/ai";
 import { ImGit } from "react-icons/im";
 
-interface SkillsType {
+interface ResumeType {
   name: string;
   icon: any;
   link: string;
 }
 
-export const SkillsData: SkillsType[] = [
+export const ResumeData: ResumeType[] = [
   /*
   {
     name: "JavaScript",
