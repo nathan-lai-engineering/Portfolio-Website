@@ -32,8 +32,4 @@ export const LinksData: LinkType[] = [
     title: 'API',
     linkTo: '/api',
   },
-  {
-    title: 'Contact',
-    linkTo: '/contact',
-  },
 ];
