@@ -8,6 +8,7 @@ import Experience from "./pages/Experience";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import Hobbies from "./pages/Hobbies";
+import API from "./pages/API";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Route path='/projects' element={<Projects />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='/hobbies' element={<Hobbies />} />
+        <Route path='/api' element={<API />} />
       </Routes>
     </>
   );
