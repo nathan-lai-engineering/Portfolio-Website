@@ -26,11 +26,11 @@ export const LinksData: LinkType[] = [
   },
   {
     title: 'Hobbies',
-    linkTo: '/',
+    linkTo: '/hobbies',
   },
   {
     title: 'API',
-    linkTo: '/',
+    linkTo: '/api',
   },
   {
     title: 'Contact',
